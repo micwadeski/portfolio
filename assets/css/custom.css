@@ -4,9 +4,11 @@
     background-image: linear-gradient(to right, red , yellow);
   }
 
+  #new-margin-top {
+    margin-top: -200px;
+  }
 
-
-
+  
 
 
 
